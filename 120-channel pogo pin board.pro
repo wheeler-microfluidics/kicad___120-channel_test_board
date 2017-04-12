@@ -1,4 +1,4 @@
-update=09/10/2015 12:59:47 PM
+update=2017-04-12 12:25:16 AM
 last_client=kicad
 [pcbnew]
 version=1
@@ -21,6 +21,9 @@ BoardOutlineThickness=0.381000000000
 ModuleOutlineThickness=0.304800000000
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
 [eeschema]
 version=1
 LibDir=library
@@ -55,6 +58,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=library/wheelerlab
-[cvpcb]
+[schematic_editor]
 version=1
-NetIExt=net
+PageLayoutDescrFile=
+PlotDirectoryName=svg
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

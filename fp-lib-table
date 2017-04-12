@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name wheelerlab)(type Legacy)(uri "$(KIPRJMOD)\\library\\wheelerlab.mod")(options "")(descr ""))
+  (lib (name WheelerLab)(type KiCad)(uri "$(KIPRJMOD)\\library\\WheelerLab.pretty")(options "")(descr ""))
 )
